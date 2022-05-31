@@ -2,6 +2,5 @@
 
 str = "Holberton School"
 
-strmul = 3 * str
-print(strmul)
+print(3 * str)
 print(str[0:9])
